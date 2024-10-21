@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é uma aplicação para registro de cartões de crédito, composta por uma API desenvolvida em .NET e um frontend em Angular. A integração entre as duas tecnologias proporciona uma experiência de usuário segura e eficiente.
+Este projeto é uma aplicação para registro de cartões de crédito, composta por uma API desenvolvida em .NET e um frontend em Angular. A integração entre as duas tecnologias Para Fins de Estudo.
 
 ## Funcionalidades
 
