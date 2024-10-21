@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GALTA\\Desktop\\Payment\\PaymentApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D48F84C-3C9C-43C4-A7EF-2CC6C989F487}|PaymentApi\\PaymentApi.csproj|c:\\users\\galta\\desktop\\payment\\paymentapi\\paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D48F84C-3C9C-43C4-A7EF-2CC6C989F487}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D48F84C-3C9C-43C4-A7EF-2CC6C989F487}|PaymentApi\\PaymentApi.csproj|c:\\users\\galta\\desktop\\payment\\paymentapi\\paymentapi\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D48F84C-3C9C-43C4-A7EF-2CC6C989F487}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D48F84C-3C9C-43C4-A7EF-2CC6C989F487}|PaymentApi\\PaymentApi.csproj|c:\\users\\galta\\desktop\\payment\\paymentapi\\paymentapi\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D48F84C-3C9C-43C4-A7EF-2CC6C989F487}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D48F84C-3C9C-43C4-A7EF-2CC6C989F487}|PaymentApi\\PaymentApi.csproj|c:\\users\\galta\\desktop\\payment\\paymentapi\\paymentapi\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D48F84C-3C9C-43C4-A7EF-2CC6C989F487}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentDetailContext.cs",
+              "DocumentMoniker": "C:\\Users\\GALTA\\Desktop\\Payment\\PaymentApi\\PaymentApi\\Models\\PaymentDetailContext.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Models\\PaymentDetailContext.cs",
+              "ToolTip": "C:\\Users\\GALTA\\Desktop\\Payment\\PaymentApi\\PaymentApi\\Models\\PaymentDetailContext.cs",
+              "RelativeToolTip": "PaymentApi\\Models\\PaymentDetailContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:17:23.035Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentDetail.cs",
+              "DocumentMoniker": "C:\\Users\\GALTA\\Desktop\\Payment\\PaymentApi\\PaymentApi\\Models\\PaymentDetail.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Models\\PaymentDetail.cs",
+              "ToolTip": "C:\\Users\\GALTA\\Desktop\\Payment\\PaymentApi\\PaymentApi\\Models\\PaymentDetail.cs",
+              "RelativeToolTip": "PaymentApi\\Models\\PaymentDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:12:38.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\GALTA\\Desktop\\Payment\\PaymentApi\\PaymentApi\\Controllers\\PaymentDetailController.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Controllers\\PaymentDetailController.cs",
+              "ToolTip": "C:\\Users\\GALTA\\Desktop\\Payment\\PaymentApi\\PaymentApi\\Controllers\\PaymentDetailController.cs",
+              "RelativeToolTip": "PaymentApi\\Controllers\\PaymentDetailController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAADUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:54:10.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GALTA\\Desktop\\Payment\\PaymentApi\\PaymentApi\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Program.cs",
+              "ToolTip": "C:\\Users\\GALTA\\Desktop\\Payment\\PaymentApi\\PaymentApi\\Program.cs",
+              "RelativeToolTip": "PaymentApi\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:52:34.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

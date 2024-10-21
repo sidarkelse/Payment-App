@@ -1,0 +1,22 @@
+
+.mouse-hover{
+    cursor: pointer;
+}
+
+form label {
+    text-transform: uppercase;
+    color: gray;
+}
+
+form input {
+    font-weight: 500;
+}
+
+form input::placeholder{
+    color: wheat;
+    font-weight:lighter;
+}
+
+form.submitted input.ng-invalid{
+    border-color: red;
+}
